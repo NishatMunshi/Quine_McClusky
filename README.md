@@ -1,2 +1,2 @@
 # Quine_McClusky
-Solving for simplest form of a boolean expression given the minterms and don'e care terms.
+Solving for simplest form of a boolean expression given the minterms and don't care terms.
